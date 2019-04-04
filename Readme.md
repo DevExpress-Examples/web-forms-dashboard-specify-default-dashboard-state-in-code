@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/WebDashboard_ManualDashboardState/Default.aspx) (VB: [Default.aspx.vb](./VB/WebDashboard_ManualDashboardState/Default.aspx.vb))
+* [Default.aspx](./CS/WebDashboard_ManualDashboardState/Default.aspx) (VB: [Default.aspx](./VB/WebDashboard_ManualDashboardState/Default.aspx))
 * [Default.aspx.cs](./CS/WebDashboard_ManualDashboardState/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebDashboard_ManualDashboardState/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxDashboard - How to specify a default dashboard state in code
