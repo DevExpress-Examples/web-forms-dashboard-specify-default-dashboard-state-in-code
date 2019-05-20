@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.vb" Inherits="WebDashboard_DashboardState.Global_asax" Language="vb" %>
+<%@ Application Codebehind="Global.asax.cs" Inherits="WebDashboard_DashboardState.Global_asax" Language="C#" %>
