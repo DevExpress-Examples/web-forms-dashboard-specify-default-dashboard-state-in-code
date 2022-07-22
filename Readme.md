@@ -9,7 +9,7 @@
 
 The sample illustrates how to specify a [dashboard state](https://docs.devexpress.com/Dashboard/118733/web-dashboard/aspnet-web-forms-dashboard-control/manage-dashboard-state) (such as master filter or parameter values) in code and how to apply this state when loading a dashboard for the first time. 
 
-In this example, the [DashboardState](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.DashboardState) object holds the required dashboard state. The [ASPxDashboard.SetInitialDashboardState](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWeb.ASPxDashboard.SetInitialDashboardState) event is used to apply the specified dashboard state when loading a dashboard.
+In this example, the [DashboardState](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.DashboardState) object holds the required dashboard state. The [ASPxDashboard.SetInitialDashboardState](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWeb.ASPxDashboard.SetInitialDashboardState) event is used to apply the specified dashboard state when loading a dashboard.
 
 ## Files to Look At
 
