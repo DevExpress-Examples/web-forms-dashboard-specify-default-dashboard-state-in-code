@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# ASPxDashboard - How to specify a default dashboard state in code
+# Dashboard for Web Forms - How to specify a default dashboard state in code
 
 
 The sample illustrates how to specify a [dashboard state](https://docs.devexpress.com/Dashboard/118733/web-dashboard/aspnet-web-forms-dashboard-control/manage-dashboard-state) (such as master filter or parameter values) in code and how to apply this state when loading a dashboard for the first time. 
