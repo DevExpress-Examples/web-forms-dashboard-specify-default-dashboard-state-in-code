@@ -11,8 +11,7 @@ The sample illustrates how to specify a [dashboard state](https://docs.devexpr
 
 In this example, the [DashboardState](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.DashboardState) object holds the required dashboard state. The [ASPxDashboard.SetInitialDashboardState](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWeb.ASPxDashboard.SetInitialDashboardState) event is used to apply the specified dashboard state when loading a dashboard.
 
-## Files to Look At
-
+## Files to Review
 * [Default.aspx](./CS/WebDashboard_ManualDashboardState/Default.aspx) (VB: [Default.aspx](./VB/WebDashboard_ManualDashboardState/Default.aspx))
 * [Default.aspx.cs](./CS/WebDashboard_ManualDashboardState/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebDashboard_ManualDashboardState/Default.aspx.vb))
 
